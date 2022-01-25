@@ -1,0 +1,1 @@
+web: gunicorn kickstarter_project:APP
